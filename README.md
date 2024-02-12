@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vite,react,tailwind,mui)](https://skillicons.dev)
 
 ## Description
-Create highly customizable QR codes, with minimum effort! With this website, you can not only create QR codes, but also change their colors, patters, icon and more!
+Create highly customizable, QR codes, with minimum effort! With this website, you can not only create QR codes, but also change their colors, patters, icon and more!
 
 ### Cloning the repository
 
